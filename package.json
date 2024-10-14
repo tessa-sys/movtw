@@ -1,0 +1,12 @@
+	
+{
+  "name": "ghienphim-2-chi-chi-em-em-2-online-vietsub",
+  "version": "1.0.0",
+  "description": "Xem Phim Chị Chị Em Em 2 (2023) Vietsub Thuyết Minh Trọn Bộ. Phim Chị Chị Em Em 2 (2023) Vietsub HD. Chị Chị Em Em 2 xoay quanh câu chuyện về anh chàng cảnh sát Chị Chị Em Em 2 (2023) là một nhân vật đến từ bộ phim hoạt hình Toy Story nổi tiếng.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
